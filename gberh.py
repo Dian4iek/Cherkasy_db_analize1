@@ -150,13 +150,15 @@ col1, col2 = st.columns(2)
 with col1:
     st.image(r"/mount/src/cherkasy_db_analize1/lubava.jpg", caption="ТРЦ Любава / Lybava Mall", use_container_width=True)
     st.image(r"/mount/src/cherkasy_db_analize1/park.jpg", caption="Парк / Park", use_container_width=True)
-    st.image(r"/mount/src/cherkasy_db_analize1/road.png", caption="Дорога / Road", use_container_width=True)
+    
 
 
 with col2:
     st.image(r"/mount/src/cherkasy_db_analize1/night_park.jpg", caption="Парк вночі/Night Park", use_container_width=True)
+    st.image(r"/mount/src/cherkasy_db_analize1/road.png", caption="Дорога / Road", use_container_width=True)
 
 
 
 #streamlit run "C:\Users\Diana\Desktop\gberh.py"    
+
 
