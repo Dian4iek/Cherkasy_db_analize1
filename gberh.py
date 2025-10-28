@@ -156,7 +156,7 @@ with col1:
 with col2:
     st.image(r"/mount/src/cherkasy_db_analize1/night_park.jpg", caption="Парк вночі/Night Park", use_container_width=True)
 
-    st.image("https://vycherpno.ck.ua/wp-content/uploads/2021/10/245618473_3083612635253536_7618553771366827715_n-e1634931799161.jpg", caption="Дитяча площадка / Playground", use_container_width=True)
 
 
 #streamlit run "C:\Users\Diana\Desktop\gberh.py"    
+
